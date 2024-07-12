@@ -1,4 +1,4 @@
-bjective:
+Objective:
 The goal was to predict the rank of countries (NOCs) in various Olympic sports/events for the 2024 Olympics using a Random Forest Classifier. This was achieved by creating a dashboard using Dash and Plotly, allowing users to select a sport and view the predicted rank.
 
 Steps Taken:
