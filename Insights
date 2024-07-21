@@ -33,6 +33,7 @@ This indicates that historically successful countries with more gold and total m
 Error Handling:
 
 The dashboard included mechanisms to handle unseen labels and other potential issues, ensuring robust predictions.
+
 Conclusion:
 Predictive Power: The Random Forest model demonstrated the capability to predict ranks based on historical performance data. This can be valuable for countries and sports analysts to understand potential outcomes.
 Visual Insights: The Dash dashboard provided an interactive and visual way to explore predictions across different sports/events.
